@@ -34,6 +34,9 @@ https://lmgtfy.com/?q=python+library+gps+to+zip
 More Zipcode code:
 https://pypi.org/project/uszipcode/
 
+Weather?
+https://opendata.stackexchange.com/questions/6602/new-york-city-weather-data
+
 ## Project Scope
 
 Geographic: All NYC Zipcodes
