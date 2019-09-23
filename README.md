@@ -53,13 +53,11 @@ Calculate # of restaurants open per hour.
 
 
 
-## TODO Monday:
+## TODO Monday of Project:
 
 Investigate the Yelp Dataset, and index by zipcode - Thomas
 
 Link the MTA Turnstile Data with Zipcodes - Davide
 
 Bring in Weather? - Elstan
-
-Bring in MTA Turnstile Data - Jacqueline
 
