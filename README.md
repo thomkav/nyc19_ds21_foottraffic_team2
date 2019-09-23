@@ -13,8 +13,8 @@ https://github.com/thisismetis/nyc19_ds21/tree/master/curriculum/project-01/pand
 
 ## Project Scope
 
-Geographic: Metropolitan Manhattan Zipcodes
-Time: 2017-2018
+Geographic: All NYC Zipcodes
+Time: Sept 2018 - Sept 2019
 
 ## Goals:
 
@@ -26,4 +26,8 @@ Calculate # of restaurants open per hour.
 
 ## TODO:
 
-Prepare the Yelp Dataset
+Investigate the Yelp Dataset - Thomas
+
+Link the MTA Turnstile Data with Zipcodes - Davide
+
+Bring in Weather? - Elstan
