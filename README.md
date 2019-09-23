@@ -9,7 +9,7 @@ Elstan
 Thomas
 
 link to original project
-https://github.com/thisismetis/nyc19_ds21/tree/master/curriculum/project-01/pandas-intro
+https://github.com/thisismetis/nyc19_ds21/tree/master/curriculum/project-01/
 
 ## Useful Links
 
