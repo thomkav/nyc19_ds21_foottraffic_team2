@@ -26,7 +26,7 @@ Calculate # of restaurants open per hour.
 
 ## TODO:
 
-Investigate the Yelp Dataset - Thomas
+Investigate the Yelp Dataset, and index by zipcode - Thomas
 
 Link the MTA Turnstile Data with Zipcodes - Davide
 
