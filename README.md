@@ -47,9 +47,11 @@ Time: Sept 2018 - Sept 2019
 
 Report on traffic at each station.
 
-Compare with opening hours of restaurants in that period.
+Examine opening hours of restaurants in each weekday/night period.
 
 Calculate # of restaurants open per hour.
+
+
 
 ## TODO Monday:
 
