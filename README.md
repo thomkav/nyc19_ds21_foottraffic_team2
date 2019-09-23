@@ -53,7 +53,7 @@ Calculate # of restaurants open per hour.
 
 
 
-## TODO Monday of Project:
+## TODO:
 
 Investigate the Yelp Dataset, and index by zipcode - Thomas
 
